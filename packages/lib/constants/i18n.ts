@@ -2,7 +2,7 @@ import { z } from 'zod';
 
 export const SUPPORTED_LANGUAGE_CODES = ['de', 'en', 'br'] as const;
 
-export const ZSupportedLanguageCodeSchema = z.enum(SUPPORTED_LANGUAGE_CODES).catch('en');
+export const ZSupportedLanguageCodeSchema = z.enum(SUPPORTED_LANGUAGE_CODES).catch('br');
 
 export type SupportedLanguageCodes = (typeof SUPPORTED_LANGUAGE_CODES)[number];
 
