@@ -2754,34 +2754,34 @@ msgstr "Sign Here"
 #: apps/web/src/components/forms/signin.tsx:371
 #: apps/web/src/components/forms/signin.tsx:498
 msgid "Sign In"
-msgstr "Sign In"
+msgstr "Logar-se"
 
 #: apps/web/src/app/(unauthenticated)/signin/page.tsx:44
 msgid "Sign in to your account"
-msgstr "Sign in to your account"
+msgstr "Bem-vindo ao AssinaMax"
 
 #: apps/web/src/components/(dashboard)/layout/menu-switcher.tsx:297
 #: apps/web/src/components/(dashboard)/layout/mobile-navigation.tsx:84
 msgid "Sign Out"
-msgstr "Sign Out"
+msgstr "Sair"
 
 #: apps/web/src/app/embed/direct/[[...url]]/client.tsx:350
 #: apps/web/src/app/embed/sign/[[...url]]/client.tsx:228
 msgid "Sign the document to complete the process."
-msgstr "Sign the document to complete the process."
+msgstr "Assine o documento para concluir o processo."
 
 #: apps/web/src/app/(signing)/sign/[token]/signing-auth-page.tsx:72
 msgid "Sign up"
-msgstr "Sign up"
+msgstr "Registrar-se"
 
 #: apps/web/src/components/forms/signup.tsx:235
 msgid "Sign Up"
-msgstr "Sign Up"
+msgstr "Registrar-se"
 
 #: apps/web/src/components/forms/signup.tsx:257
 #: apps/web/src/components/forms/v2/signup.tsx:389
 msgid "Sign Up with Google"
-msgstr "Sign Up with Google"
+msgstr "Registrar com Google"
 
 #: apps/web/src/components/forms/signup.tsx:281
 #: apps/web/src/components/forms/v2/signup.tsx:405
@@ -2796,7 +2796,7 @@ msgstr "Sign Up with OIDC"
 #: apps/web/src/app/embed/sign/[[...url]]/client.tsx:268
 #: apps/web/src/components/forms/profile.tsx:132
 msgid "Signature"
-msgstr "Signature"
+msgstr "Assinatura"
 
 #: apps/web/src/app/(dashboard)/admin/stats/page.tsx:123
 msgid "Signatures Collected"
